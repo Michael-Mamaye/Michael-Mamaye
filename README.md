@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-Mamaye
+- 👋 Hi, I’m Michael-Mamaye
 - 👀 I’m interested in web development 
 - 💻 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on react web development projects
