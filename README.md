@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael-Mamaye
 - 👀 I’m interested in web development 
-- 💻 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on react web development projects
+- 💻 I graduated in software engineering 
+- 💞️ I’m looking to collaborate on any software development projects
 - 📫 How to reach me using my Gmail michaelmamaye@gmail.com 
 
 <!---
