@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael-Mamaye
-- 👀 I’m interested in web development 
 - 💻 I graduated in software engineering 
+- 👀 I’m interested in web and mobile app development 
 - 💞️ I have a keen interest in software development and am eager to work on any project
 - 📫 you can reach me using my Gmail michaelmamaye@gmail.com 
 
